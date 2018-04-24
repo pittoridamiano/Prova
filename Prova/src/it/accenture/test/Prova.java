@@ -7,6 +7,7 @@ public class Prova {
 		// prova
 		// maria
 		// claudio
+		// alba
 		// domenico
 		// pavlin
 		// prova merge
@@ -14,7 +15,16 @@ public class Prova {
 		//angelo
 		// prova 2
 		// ciao
+<<<<<<< HEAD
 		// gabriele
+=======
+		// ciao a tutti
+		// giovanni
+	    // progetto
+	
+	
+>>>>>>> branch 'master' of https://github.com/pittoridamiano/Prova
 	}
 	
+	 
 }
