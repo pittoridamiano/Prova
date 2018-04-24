@@ -15,15 +15,15 @@ public class Prova {
 		//angelo
 		// prova 2
 		// ciao
-<<<<<<< HEAD
+
 		// gabriele
-=======
+
 		// ciao a tutti
 		// giovanni
 	    // progetto
 	
 	
->>>>>>> branch 'master' of https://github.com/pittoridamiano/Prova
+
 	}
 	
 	 
